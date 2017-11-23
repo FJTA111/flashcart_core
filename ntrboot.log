@@ -1,0 +1,13 @@
+[DEBUG]: Cart init; state = { chipid = 0x00000FC2, game_code = 0x454C4441, hdr_key1_romcnt = 0x001808F8, hdr_key2_romcnt = 0x00416017, key2_seed = 0x0 }
+[INFO]: R4SDHC: Init
+[DEBUG]: Cart init; state = { chipid = 0x00000FC2, game_code = 0x454C4441, hdr_key1_romcnt = 0x001808F8, hdr_key2_romcnt = 0x00416017, key2_seed = 0x0 }
+[DEBUG]: Sending KEY1 cmd: 40000C99ACE39D46 (plaintext)
+[DEBUG]: Seed KEY2: 64CD6760E8 5C879B9B05
+[DEBUG]: Seeding KEY2: x = 64 CD6760E8 y = 5C 879B9B05
+[DEBUG]: Sending KEY1 cmd: 1000011A47339D47 (plaintext)
+[DEBUG]: Sending KEY1 cmd: A000011A47339D48 (plaintext)
+[DEBUG]: resp1: 0xe1d110b2, resp2: 0xe1d110b2
+[INFO]: R4SDHC: Current Software Revsion: 00000000
+[WARN]: R4SDHC: We have no way of detecting this cart!
+[INFO]: R4SDHC: readFlash(addr=0x00000000, size=0x200000)
+[ERROR]: R4SDHC: ntrboot injection not implemented!
